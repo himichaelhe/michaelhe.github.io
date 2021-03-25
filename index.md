@@ -1,7 +1,5 @@
 ## Hi, I'm Michael He
 
-[Image of Michael](https://himichaelh.github.io/images/michael_he.jpeg)
-
 I live in Los Angeles and study at Pomona College. I am a math major, but I spend too much time on learning about random things. For example, investing, running businesses, thinking about China, all kinds of food, fermentation, anime, jazz, Bach...
 
 I recently started coding. It's been fun so far. 
@@ -45,7 +43,9 @@ Aside from writing, I hope to add some projects here in the future.
 
 ### Pictures
 
-Here are some pictures from my life or my friends.
+This is my profile, by my amazing friend Chris Du.
+
+![Image of Michael](https://github.com/himichaelh/himichaelh.github.io/blob/main/michael_he.jpeg?raw=true)
 
 
 
