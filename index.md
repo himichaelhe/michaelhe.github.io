@@ -4,7 +4,7 @@ I live in Los Angeles. I am a math major, but I spend too much time learning abo
 
 I recently started coding. It's been fun so far.
 
-My email is: mailto:michaelhe@hey.com.
+You can email me [here](mailto:michaelhe@hey.com).
 You can also find me on [Twitter](https://twitter.com/hi_michaelh).
 
 ### Brief Bio
