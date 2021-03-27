@@ -1,6 +1,6 @@
 ## Hi, I'm Michael He
 
-I live in Los Angeles. I am a math major, but I spend too much time learning about random things. For example, investing, running businesses, China, food, fermentation, anime, jazz, Bach, ... I haven't made up my mind on most things in the world.
+I live in Los Angeles. I am a math major, but I spend too much time learning about random things. For example, investing, business, China, food, fermentation, anime, jazz, Bach, ... I haven't made up my mind on most things in the world.
 
 I recently started coding. It's been fun so far.
 
@@ -9,7 +9,7 @@ You can also find me on [Twitter](https://twitter.com/hi_michaelh).
 
 ### Brief Bio
 
-I grew up in Shanghai. I have been in California since 2011. That's it.
+I grew up in Shanghai. I have been in California since 2011. I love In-N-Out.
 
 ### Blogs and Essays
 
