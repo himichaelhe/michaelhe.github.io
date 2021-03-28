@@ -58,3 +58,8 @@ This is my profile, by my amazing friend Chris Du.
 ![Image of Michael](https://github.com/himichaelh/himichaelh.github.io/blob/main/michael_he.jpeg?raw=true)
 
 More pictures coming in the future.
+
+### 中文简介
+
+我的中文也还可以，欢迎关注我的微信公众号（michaelscorner）！
+平常喜欢看书、写字、做饭、听音乐、看投资。最近在学基本的编程，希望能做几个有趣的小产品。
