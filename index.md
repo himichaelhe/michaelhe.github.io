@@ -49,7 +49,7 @@ Here are some of my favorite people to read on the Internet, in no particular or
 Aside from Tyler, Blas, and Ben, I have read 90% of what these people wrote.  
 
 People from these communities inspire me:
-* [Stripe](https://stripe.com/).
+* [Stripe](https://stripe.com/)
 * [Shopify](https://www.shopify.com/)
 * [Basecamp](https://basecamp.com/)
 * [Product Hunt](https://www.producthunt.com/)
