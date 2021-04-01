@@ -1,6 +1,6 @@
 ## Hi, I'm Michael He
 
-I live in Los Angeles. I am a math major, but I spend too much time learning about random things. For example, investing, business, China, food, fermentation, anime, jazz, Bach, ... I haven't made up my mind on most things in the world.
+I live in Los Angeles. I am a math major, but I spend too much time learning about random things. For example, investing, business, China, food, fermentation, anime, jazz, Bach, walking ... I haven't made up my mind on most things in the world.
 
 I recently started coding. It's been fun so far.
 
@@ -17,6 +17,8 @@ I write my blog posts on [HEY World](https://world.hey.com/michaelhe/). I proces
 
 Until I feel confident to publish essays (permanently), I won't include any. Please read Paul Graham's excellent essay on [writing great essays](http://paulgraham.com/useful.html) instead.
 
+Okay, here are two decent essays. First is my "viral" [piece](https://world.hey.com/michaelhe/why-kids-hate-writing-0df7b6ad) that pg shared. The other is my [reflection](https://world.hey.com/michaelhe/28-days-later-b7ca0493) on writing 28 days straight.
+
 ### Bookshelf
 
 I will upload book reviews in the future. For now, see my recent reads and favorites [here](https://www.zeneca.io/michaelhe).
@@ -26,34 +28,42 @@ I have some books that are impossible to throw out:
 * Poor Charlie's Almanack
 * Warren Buffett's Letters to Shareholders
 * Books by Seneca
+* Records of the Grand Historian, or Shi Ji
 
 Go read some books. It's fun.
 
 ### Links
 
-Here are some of my favorite people to read on the Internet:
+Here are some of my favorite people to read on the Internet, in no particular order:
 * [Tyler Cowen](https://marginalrevolution.com/)
 * [Paul Graham](http://paulgraham.com/articles.html)
 * [Patrick Collison](https://patrickcollison.com/)
 * [Blas Moros](https://blas.com/)
 * [Jason Fried](https://world.hey.com/jason)
 * [David Heinemeier Hansson](https://world.hey.com/dhh)
+* [Tim Urban](https://waitbutwhy.com/)
+* [Atul Gawande](http://atulgawande.com/articles/)
+* [Ben Thompson](https://stratechery.com/)
+* [Howard Marks](https://www.oaktreecapital.com/insights/howard-marks-memos/)
+
+Aside from Tyler, Blas, and Ben, I have read 90% of what these people wrote.  
 
 People from these communities inspire me:
 * [Stripe](https://stripe.com/).
 * [Shopify](https://www.shopify.com/)
 * [Basecamp](https://basecamp.com/)
 * [Product Hunt](https://www.producthunt.com/)
+* [You Zhi You Xing](https://youzhiyouxing.cn/)
 
-There are more to be added, that's for sure.
+There are more to be added. That's for sure.
 
 ### Projects
 
-Aside from writing, I hope to add some projects here in the future. Stay tuned!
+Aside from writing, I hope to add some projects here in the future. Two are in line. Stay tuned!
 
 ### Pictures
 
-This is my profile, by my amazing friend Chris Du.
+This is my profile, by my amazing friend [Chris Du](https://chrisdu.me/).
 
 ![Image of Michael](https://github.com/himichaelh/himichaelh.github.io/blob/main/michael_he.jpeg?raw=true)
 
