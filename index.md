@@ -18,7 +18,12 @@ You can also find me on [Twitter](https://twitter.com/hi_michaelh). I wanted a b
 
 I enjoy writing now more than ever. I process my thoughts on [HEY World](https://world.hey.com/michaelhe/), because writing there feels free and private.
 
-I will list essays I really like, such as [this one](https://world.hey.com/michaelhe/why-kids-hate-writing-0df7b6ad) retweeted by Paul Graham, my unofficial writing mentor.
+I will list essays I really like, such as [Why Kids Hate Writing](https://world.hey.com/michaelhe/why-kids-hate-writing-0df7b6ad) retweeted by Paul Graham, my unofficial writing mentor.
+
+A growing list of pretty good essays:
+
+* [Stop Being Jealous Of WeChat](https://github.com/himichaelh/himichaelh.github.io/blob/main/Stop%20Being%20Jealous%20Of%20WeChat.md)
+* End of list
 
 I also share my writing journey from time to time, for example this piece on [rewriting](https://world.hey.com/michaelhe/start-rewriting-bc92144b).
 

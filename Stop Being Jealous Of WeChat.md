@@ -6,7 +6,7 @@ July 2021
 
 In the West, WeChat is known as a _super-app_. We don't want this one particularly, but we wish we had something like it. Facebook [desperately wants to be like WeChat](https://www.nytimes.com/2019/03/07/technology/facebook-zuckerberg-wechat.html), too.
 
-We shouldn't be jealous, because we already have our super-app. *It's called the web browser.*
+We shouldn't be jealous, because we already have our super-app. **It's called the web browser.**
 
 The web browser does everything WeChat claims to do, but better:
 * Access of information - blog, news, etc.
@@ -17,7 +17,7 @@ The web browser does everything WeChat claims to do, but better:
 
 One may argue that WeChat is not comparable to the web browser. I disagree. Users in China rely heavily on WeChat to access _their_ Internet, just like users outside of China access the Internet with web browsers instead.
 
-What makes WeChat worse than the web browser? As a WeChat user since 2011, I can give a few reasons. *Most importantly, WeChat traps you at the expense of flexibility.* You can't have unlimited tabs, as the button shortcut only allows six. Browser functions are suboptimal. Speed is incredibly slow. And there is the largest roadblock - the Firewall.
+What makes WeChat worse than the web browser? As a WeChat user since 2011, I can give a few reasons. **Most importantly, WeChat traps you at the expense of flexibility.** You can't have unlimited tabs, as the button shortcut only allows six. Browser functions are suboptimal. Speed is incredibly slow. And there is the largest roadblock - the Firewall.
 
 WeChat achieved mass adoption before explosive growth in China's smartphone market, so it became the standard for China's mobile internet. It had the unique advantage to shape the taste of more than a billion users _and_ the Chinese tech landscape. Users aggregated on WeChat, so everything else aggregated there. In turn, the ecosystem grew in importance, until WeChat was synonymous with Chinese internet. Such integration was inevitable. The name of the app was the only variable.
 
@@ -31,14 +31,14 @@ Perhaps a few years ago, the WeChat model would have appeared enviable, but not 
 
 We still don't have a super-app. Instead, we have frequently-used apps, the browser that handles all else, plus the APIs and infrastructure that make everything run on the Internet. They get the job done just as nicely.
 
-*The web browser does not come with a clear agenda.* Its history represents the organic growth of openness and access. Adding more users from anywhere matters. Changes, creations, and innovations happen with no directives from above. The Internet space is larger than any single country's enclosed network. There is more potential to build "roads" that connect things out in the open. The Web has more players, so it functions better in the long run.
+**The web browser does not come with a clear agenda.** Its history represents the organic growth of openness and access. Adding more users from anywhere matters. Changes, creations, and innovations happen with no directives from above. The Internet space is larger than any single country's enclosed network. There is more potential to build "roads" that connect things out in the open. The Web has more players, so it functions better in the long run.
 
-*WeChat came with an agenda. It grew in no time, but its headstart was only temporary.*
+**WeChat came with an agenda. It grew in no time, but its headstart was only temporary.**
 
 Even if the WeChat ecosystem makes things more convenient for Chinese users, people outside will eventually enjoy the same convenience without using WeChat. _China knows about convergence more than anyone in the world._ Its tightening control on various fronts - privacy, proprietary ownership, and R&D - only confirms my suspicion.
 
-*Now the world is on the right track, we don't need to catch up to WeChat. We have surpassed them.*
+**Now the world is on the right track, we don't need to catch up to WeChat. We have surpassed them.**
 
 A note on Mark Zuckerberg's warning about Chinese tech firms: I find the statement more about aggregating power via Facebook than privacy concerns. [Facebook's effort to become the de facto Internet in some countries](https://www.theguardian.com/world/2016/aug/01/facebook-free-basics-internet-africa-mark-zuckerberg) should be studied and scrutinized much more.
 
-*Huge thanks* to [Samuel Kim](https://world.hey.com/samuelkim) and Andrew Zhao for the feedback. I couldn't have written anything this concise without your talents. [Tobi Lütke's tweet](https://twitter.com/tobi/status/1412155158126022662) framed this essay's foundation. Thank you Tobi!
+**Huge thanks** to [Samuel Kim](https://world.hey.com/samuelkim) and Andrew Zhao for the feedback. I couldn't have written anything this concise without your talents. [Tobi Lütke's tweet](https://twitter.com/tobi/status/1412155158126022662) framed this essay's foundation. Thank you Tobi!
