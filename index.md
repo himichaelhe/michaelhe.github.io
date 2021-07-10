@@ -22,7 +22,7 @@ I will list essays I really like, such as [Why Kids Hate Writing](https://world.
 
 A growing list of pretty good essays:
 
-* [Stop Being Jealous Of WeChat](https://github.com/himichaelh/himichaelh.github.io/blob/main/Stop%20Being%20Jealous%20Of%20WeChat.md)
+* [Stop Being Jealous Of WeChat](https://world.hey.com/michaelhe/stop-being-jealous-of-wechat-28f6ddf5)
 * End of list
 
 I also share my writing journey from time to time, for example this piece on [rewriting](https://world.hey.com/michaelhe/start-rewriting-bc92144b).
