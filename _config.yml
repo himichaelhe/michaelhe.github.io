@@ -1,10 +1,6 @@
-#  Jekyll configuration
 title: welcome
 description: This is Michael He (Huh).
-url: "https://michaelhe.me"
-
-# Build settings
-markdown: GFM
 theme: minimal
-
+url: "https://michaelhe.me"
+markdown: GFM
 
