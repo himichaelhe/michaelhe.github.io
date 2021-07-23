@@ -1,3 +1,7 @@
+layout: page
+title: "Stop Being Jealous Of WeChat"
+permalink: /wechat/
+
 ## Stop Being Jealous Of WeChat
 
 July 2021
