@@ -2,15 +2,7 @@
 
 I live in Los Angeles. I am a math major at Pomona College, but I spend most of my time on random things - investing, business, China, food & fermentation, economic growth, anime/manga/manhwa, jazz, Bach, walking, Roman history ... I haven't made up my mind on most things in the world. In fact, I need to work very hard to form an [opinion](https://fs.blog/2013/04/the-work-required-to-have-an-opinion/).
 
-I grew up in Shanghai. I have been in California since 2011. One day I will write about [my story in this fashion](https://twitter.com/patrickc/status/1025089196292157440?lang=en) from 2010 to 2020. For now, my story involves mostly In-N-Out. My usual order: cheeseburger with grilled onions, well-done fries animal style, and free iced water.
-
-This summer I am working at NPR's [Planet Money Indicator podcast](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money). Please give it a listen! I hope to bring a few stories to life, for example BTS, anime, Stripe Atlas & Delaware, Shopify, etc. Stay tuned.
-
-I learn programming very slowly. I'd like to say it's because I'm busy, but the real reason is I'm not passionate about it _yet_. I would love to be more involved with software development.
-
-I'd love to get your email [here](mailto:michaelhe@hey.com).
-
-You can also find me on [Twitter](https://twitter.com/hi_michaelh). Someone took @michaelhe already - if you are the owner, please get in touch.
+I'd love to get your email [here](mailto:michaelhe@hey.com). You can also find me on [Twitter](https://twitter.com/hi_michaelh). Someone took @michaelhe already - if you are the owner, please get in touch.
 
 ### Writings
 
@@ -19,9 +11,20 @@ I enjoy writing now more than ever. I process my thoughts on [HEY World](https:/
 A growing list of pretty good essays:
 
 * [Stop Being Jealous Of WeChat](https://michaelhe.me/wechat)
+* A few more coming
 * End of list
 
 I also share my writing journey from time to time, for example this piece on [rewriting](https://world.hey.com/michaelhe/start-rewriting-bc92144b). You can take a look at my Chinese blog [here](https://mp.weixin.qq.com/s/cQC_9Z_Jj_e2i0Uhuiazbw). My WeChat account is michaelscorner.
+
+
+### Brief Bio
+
+I grew up in Shanghai. I have been in California since 2011. One day I will write about [my story in this fashion](https://twitter.com/patrickc/status/1025089196292157440?lang=en) from 2010 to 2020. For now, my story involves mostly In-N-Out. My usual order: cheeseburger with grilled onions, well-done fries animal style, and free iced water.
+
+This summer I am working at NPR's [Planet Money Indicator podcast](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money). Please give it a listen! I hope to bring a few stories to life, for example BTS, anime, Stripe Atlas & Delaware, Shopify, etc. Stay tuned.
+
+I learn programming very slowly. I'd like to say it's because I'm busy, but the real reason is I'm not passionate about it _yet_. I would love to be more involved with software development.
+
 
 ### Bookshelf
 
