@@ -18,8 +18,7 @@ I enjoy writing now more than ever. I process my thoughts on [HEY World](https:/
 
 A growing list of pretty good essays:
 
-* [Stop Being Jealous Of WeChat](https://world.hey.com/michaelhe/stop-being-jealous-of-wechat-28f6ddf5)
-* /Users/apple/Documents/GitHub/himichaelh.github.io/wechat.md
+* [Stop Being Jealous Of WeChat](https://michaelhe.me/wechat)
 * End of list
 
 I also share my writing journey from time to time, for example this piece on [rewriting](https://world.hey.com/michaelhe/start-rewriting-bc92144b). You can take a look at my Chinese blog [here](https://mp.weixin.qq.com/s/cQC_9Z_Jj_e2i0Uhuiazbw). My WeChat account is michaelscorner.
