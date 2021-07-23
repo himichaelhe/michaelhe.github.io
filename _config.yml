@@ -1,3 +1,11 @@
-theme: jekyll-theme-minimal
-title: Welcome.
+#  Jekyll configuration
+title: welcome
 description: This is Michael He (Huh).
+url: "https://michaelhe.me"
+
+# Build settings
+markdown: GFM
+remote_theme: poole/hyde
+
+
+
