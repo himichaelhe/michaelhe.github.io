@@ -9,6 +9,7 @@ This summer I am working at NPR's [Planet Money Indicator podcast](https://www.n
 I learn programming very slowly. I'd like to say it's because I'm busy, but the real reason is I'm not passionate about it _yet_. I would love to be more involved with software development.
 
 I'd love to get your email [here](mailto:michaelhe@hey.com).
+
 You can also find me on [Twitter](https://twitter.com/hi_michaelh). Someone took @michaelhe already - if you are the owner, please get in touch.
 
 ### Writings
@@ -18,6 +19,7 @@ I enjoy writing now more than ever. I process my thoughts on [HEY World](https:/
 A growing list of pretty good essays:
 
 * [Stop Being Jealous Of WeChat](https://world.hey.com/michaelhe/stop-being-jealous-of-wechat-28f6ddf5)
+* [Stop Being Jealous Of WeChat](https://github.com/himichaelh/himichaelh.github.io/blob/main/Stop%20Being%20Jealous%20Of%20WeChat.md)
 * End of list
 
 I also share my writing journey from time to time, for example this piece on [rewriting](https://world.hey.com/michaelhe/start-rewriting-bc92144b). You can take a look at my Chinese blog [here](https://mp.weixin.qq.com/s/cQC_9Z_Jj_e2i0Uhuiazbw). My WeChat account is michaelscorner.
