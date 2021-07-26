@@ -1,7 +1,6 @@
 
-layout: post
+layout: page
 title: "Stop Being Jealous Of WeChat"
-author: "Michael He"
 permalink: /wechat/
 
 July 2021
