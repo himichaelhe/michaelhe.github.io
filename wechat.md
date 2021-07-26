@@ -1,7 +1,8 @@
-
+---
 layout: page
-title: "Stop Being Jealous Of WeChat"
+title: Stop Being Jealous Of WeChat
 permalink: /wechat/
+---
 
 July 2021
 
