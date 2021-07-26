@@ -4,8 +4,6 @@ title: "Stop Being Jealous Of WeChat"
 author: "Michael He"
 permalink: /wechat/
 
-## Stop Being Jealous Of WeChat
-
 July 2021
 
 [Original URL](https://world.hey.com/michaelhe/stop-being-jealous-of-wechat-28f6ddf5)
