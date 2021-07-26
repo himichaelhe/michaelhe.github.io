@@ -1,5 +1,7 @@
 
 layout: post
+title: "Stop Being Jealous Of WeChat"
+author: "Michael He"
 permalink: /wechat/
 
 ## Stop Being Jealous Of WeChat
