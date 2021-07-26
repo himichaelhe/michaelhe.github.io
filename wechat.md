@@ -1,8 +1,6 @@
----
+
 layout: post
-title: "Stop Being Jealous Of WeChat"
 permalink: /wechat/
----
 
 ## Stop Being Jealous Of WeChat
 
