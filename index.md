@@ -1,7 +1,4 @@
 ## Hi, I'm Michael He
-
-Rewrite this paragraph - make it shorter and cover more important "interests"; mention small business and the "unglamorous" ones
-
 I live in Los Angeles. I am a student at Pomona College studying mathematics and statistics. My story of becoming a math major is quite representative of my life so far - learning whatever that interests me at the time without giving up curiosity for the others. 
 
 I'm working on two important things: becoming a better listener and don't form opinions on most things just yet. 
