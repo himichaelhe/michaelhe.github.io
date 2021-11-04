@@ -1,50 +1,76 @@
 ## Hi, I'm Michael He
 
-I live in Los Angeles. I am a math major at Pomona College, but I spend most of my time on random things - investing, business, China, food & fermentation, economic growth, anime/manga/manhwa, jazz, Bach, walking, Roman history ... I haven't made up my mind on most things in the world. In fact, I need to work very hard to form an [opinion](https://fs.blog/2013/04/the-work-required-to-have-an-opinion/).
+Rewrite this paragraph - make it shorter and cover more important "interests"; mention small business and the "unglamorous" ones
 
-I'd love to get your email [here](mailto:michaelhe@hey.com). You can also find me on [Twitter](https://twitter.com/hi_michaelh). Someone took @michaelhe already - if you are the owner, please get in touch.
+I live in Los Angeles. I am a student at Pomona College studying mathematics and statistics. My story of becoming a math major is quite representative of my life so far - learning whatever that interests me at the time without giving up curiosity for the others. 
 
-### Writings
+I'm working on two important things: becoming a better listener and don't form opinions on most things just yet. 
 
-I enjoy writing now more than ever. I process my thoughts on [HEY World](https://world.hey.com/michaelhe/), because writing there feels free and private. I will list essays I really like, such as [Why Kids Hate Writing](https://world.hey.com/michaelhe/why-kids-hate-writing-0df7b6ad) retweeted by Paul Graham, my unofficial writing mentor.
+My favorite things include Bach, jazz (especially cool), food in general, manga/manhwa/manhua, walking, playing with my friends' dogs, learning about businesses and investing, playing tennis as a beginner, anything related to China, studying economic growth, and reading and writing. 
 
-A growing list of pretty good essays:
+I'd love to get your email [here](mailto:michaelhe@hey.com) or michaelhe@hey.com. You can also find me on [Twitter](https://twitter.com/hi_michaelh). Unfortuantely, someone claimed @michaelhe already. 
 
+### Writing
+
+I began writing my English blog on [HEY World](https://world.hey.com/michaelhe/) in early 2021. It's been an [incredible experience](https://world.hey.com/michaelhe/240-days-later-5280bc41). If you find it interesting, please subscribe! It means a lot.
+
+I will include some of my favorite pieces here:
+
+* [Why Kids Hate Writing](https://world.hey.com/michaelhe/why-kids-hate-writing-0df7b6ad), retweeted by Paul Graham and Jason Fried
 * [Stop Being Jealous Of WeChat](https://michaelhe.me/wechat)
-* A few more coming
-* End of list
+* Getting My Hands Dirty
+* [Michael's SGV Eating Guide](https://world.hey.com/michaelhe/michael-s-guide-to-eat-in-the-sgv-dbb47e8d)
+* [The Never-Ending Writing Quest](https://world.hey.com/michaelhe/the-never-ending-writing-quest-6fed781f)
+* The Trust Battery
+* My College Education Is Worth It
+* Squid Game Christianity
+* Some College Lessons
 
-I also share my writing journey from time to time, for example this piece on [rewriting](https://world.hey.com/michaelhe/start-rewriting-bc92144b). You can take a look at my Chinese blog [here](https://mp.weixin.qq.com/s/cQC_9Z_Jj_e2i0Uhuiazbw). My WeChat account is michaelscorner.
-
+I am writing my senior thesis on mathematical growth. I'd love to share more details you soon.
 
 ### Brief Bio
 
-I grew up in Shanghai. I have been in California since 2011. One day I will write about [my story in this fashion](https://twitter.com/patrickc/status/1025089196292157440?lang=en) from 2010 to 2020. For now, my story involves mostly In-N-Out. My usual order: cheeseburger with grilled onions, well-done fries animal style, and free iced water.
+I spent the first half of my life in Shanghai and the second half in California. One day I will write about [my early story in this fashion](https://twitter.com/patrickc/status/1025089196292157440?lang=en). 
 
-This summer I am working at NPR's [Planet Money Indicator podcast](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money). Please give it a listen! I hope to bring a few stories to life, for example BTS, anime, Stripe Atlas & Delaware, Shopify, etc. Stay tuned.
+Traveling and reading are two ways to learn about this world. I'm privileged to do both at an early age. Traveling to Tokyo gave me a taste of freedom and exploration, visiting the Bay Area showed me how driven and smart people can get, and living in Hawaii taught me the importance of culture, care, and gratitude. 
 
-I learn programming very slowly. I'd like to say it's because I'm busy, but the real reason is I'm not passionate about it _yet_. I would love to be more involved with software development.
+By the way, I'm a big In-N-Out fan! I usually order a cheeseburger with grilled onions, some well-done animal styled fries, and free iced water. Inflation may screw us over, but at least In-N-Out keeps a filling meal under ten bucks!
 
+This past summer I worked at NPR's [Planet Money Indicator podcast](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money). I learned a lot from working there, especially the joy of being with high caliber colleagues. I was fortunate to contribute and produce several stories, such as this one on [BTS](https://www.npr.org/2021/07/28/1021968141/bts-the-band-that-moves-the-economy), [anime](https://www.npr.org/2021/09/30/1042060699/japanese-anime-made-in-china), and one more on Stripe Atlas. Stay tuned!
+
+As a humanities turned STEM student, I never imagined to learn to code. But here I am, writing one line after another on R Studio! I'm not passionate about coding _yet_, but I'd love to become more involved with software development and bridging the digital world to the physical world, especially those "unglamorous" parts.
 
 ### Bookshelf
 
-I hope to upload more book reviews in the future. I have perhaps ten times books in the unread pile than read. 
+I don't think I read that much, but I certainly spend a lot of money on books. My friends think I'm addicted. 
 
-Here are my "impossible to throw out" books:
-* The Analects
-* Poor Charlie's Almanack
-* Warren Buffett's Letters to Shareholders
-* Books by Seneca
+Here are some in-depth book reviews I've written:
+* Range
 * Influence
+* Zero to One
+* How Innovation Works
+* War of Art
+* Battle Royale
+* Dark Ages Ahead
+* Growth
+
+I have also made a few guides/pdfs to some of my favorite books:
+* Poor Charlie's Almanack
+* Influence
+* The Goal
+* Atomic Habits
+* How To Lie With Statistics
+* Prime Movers of Globalization
 
 Time to read more. It's fun.
 
-### Links
+### All Kinds of Links
 
-Here are some of my favorite people to read on the Internet, in no particular order:
+It's always to link to great things. 
+
+Here are my favorite people to read on the Internet, in no particular order: 
 * [Tyler Cowen](https://marginalrevolution.com/)
 * [Paul Graham](http://paulgraham.com/articles.html)
-* [Patrick Collison](https://patrickcollison.com/)
 * [Blas Moros](https://blas.com/)
 * [Jason Fried](https://world.hey.com/jason)
 * [Tim Urban](https://waitbutwhy.com/)
@@ -54,6 +80,22 @@ Here are some of my favorite people to read on the Internet, in no particular or
 * [Ezra Klein](https://www.nytimes.com/by/ezra-klein)
 * [Noah Smith](https://noahpinion.substack.com/)
 * [Lenny Rachitsky](https://www.lennysnewsletter.com/)
+
+Some link collections:
+* [Stripe](https://world.hey.com/michaelhe/collection-on-stripe-b45f4273)
+
+People from these communities and companies inspire me:
+* [Stripe](https://stripe.com/)
+* [Shopify](https://www.shopify.com/)
+* [Flexport](https://www.flexport.com)
+* [NPR](https://www.npr.org/)
+* [Vanguard](https://investor.vanguard.com/home)
+* [Berkshire Hathaway](https://berkshirehathaway.com/)
+* [Nintendo](https://www.nintendo.co.jp/)
+* [Basecamp](https://basecamp.com/)
+* [Product Hunt](https://www.producthunt.com/)
+* [You Zhi You Xing](https://youzhiyouxing.cn/)
+* BTS ARMY
 
 Here are some great writing resources:
 * [Strunk & White](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)
@@ -65,23 +107,22 @@ Here are some great writing resources:
 * [A great writing strategy is to talk](http://paulgraham.com/talk.html)
 * [Another good online writing guide](https://www.collaborativefund.com/blog/writing/)
 
-People from these communities inspire me:
-* [NPR](https://www.npr.org/)
-* [Stripe](https://stripe.com/)
-* [Shopify](https://www.shopify.com/)
-* [Vanguard](https://investor.vanguard.com/home)
-* [Berkshire Hathaway](https://berkshirehathaway.com/)
-* [Nintendo](https://www.nintendo.co.jp/)
-* [Basecamp](https://basecamp.com/)
-* [Product Hunt](https://www.producthunt.com/)
-* [You Zhi You Xing](https://youzhiyouxing.cn/)
-* BTS ARMY
-
-More to be added.
+Please send me things you find interesting! Twitter is a great place for that, but emails are even better.
 
 ### Projects
 
-Aside from writing, I hope to add some projects here in the future. Having an internship this summer means project will be delayed. Stay tuned anyways!
+From time to time, I work on things that interest me until school drags me back to the daily grind. Here are some things I've worked on or am working on:
+
+* WeChat blog in Chinese
+* HEY World blog
+* Statistical analysis on science progress
+* Online bakery app
+* Personal finance analyst
+* Guide to mathematical growth
+* Calculus crash course
+* Warren Buffett Shareholder Letters
+
+I hope they are useful in some ways. Please let me know if you have any comments and feedback.
 
 ### Pictures
 
