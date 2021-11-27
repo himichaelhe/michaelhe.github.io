@@ -15,12 +15,12 @@ Here are some of my favorite pieces:
 * [Why Kids Hate Writing](https://world.hey.com/michaelhe/why-kids-hate-writing-0df7b6ad)
 * [The Never-Ending Writing Quest](https://world.hey.com/michaelhe/the-never-ending-writing-quest-6fed781f)
 * [Stop Being Jealous Of WeChat](https://michaelhe.me/wechat)
-* The Trust Battery
+* [The Trust Battery](https://michaelhe.me/trust)
 * [Michael's SGV Eating Guide](https://world.hey.com/michaelhe/michael-s-guide-to-eat-in-the-sgv-dbb47e8d)
 * Getting My Hands Dirty
 * Squid Game Christianity
 * Is My College Education Worth It? Yes
-* College Lessons To New Students
+* [College Lessons To New Students](https://world.hey.com/michaelhe/things-i-wish-i-d-known-9c71a851)
 * To Zippy's Is To Hawaii
 * How To Learn Languages Relatively Quickly
 
@@ -63,7 +63,7 @@ It's time to read more. It's the funnest thing, aside from playing with pets, sl
 
 ### Links, Links, Links!
 
-It's always to share URLs to great things. 
+It's always nice to share URLs to great things. 
 
 Here are my favorite people to read on the Internet, in no particular order: 
 * [Tyler Cowen](https://marginalrevolution.com/)
