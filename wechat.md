@@ -1,11 +1,3 @@
----
-layout: page
-title: Stop Being Jealous Of WeChat
-permalink: /wechat/
----
-
-July 2021
-
 [Original URL](https://world.hey.com/michaelhe/stop-being-jealous-of-wechat-28f6ddf5)
 
 In the West, WeChat is known as a super-app. We don't want this one particularly, but we wish we had something like it. Facebook  [desperately wants to be like WeChat](https://www.nytimes.com/2019/03/07/technology/facebook-zuckerberg-wechat.html), too. 
