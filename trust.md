@@ -14,35 +14,12 @@ In a company setting, delivering promised results and supporting the team will c
  
 You can find analogous patterns in many types of relationships, most notably between family members, friends, romantic partners, mentors and mentees, suppliers and customers, etc.
  
-The concept of trust is paradoxical at times. 
+
+** The concept of trust is paradoxical at times.**
 
 Trust is not a revolutionary concept but talking about trust is. We don’t talk about trust for two reasons. Those who talk about trust all day are sometimes untrustworthy people, for example scammers or politicians (or both, if you so incline). We are skeptical of anyone who speaks that way. But the more applicable reason is hidden in hindsight. Why should we talk about something so “obvious”? So talking about trust is like a circular argument: we don’t talk about trust, so we don’t really know how it works; since we don’t really know how trust works, we don’t talk about it. 
  
-Trust is abstract, but it impacts our relationships in tangible ways. We don’t often see trust in our day-to-day life, but we see the lack of it. In a sense, trust is like time - we don’t know its significance until it is gone. When there is little trust, everything goes wrong, everyone blames one another, and we all feel awful. We see it so clearly that seeing it hurts.
- 
 Trust is dependent on time, but time does not guarantee trust. Relationship building requires consistent positive interactions over time to establish trust. Reciprocations and consistency are key principles. As Tobi [explains](https://www.nytimes.com/2016/04/24/business/tobi-lutke-of-shopify-powering-a-team-with-a-trust-battery.html), "it takes a year of working together until you sort of understand people." That translates to tens if not hundreds of hours, which is in line with [social psychology research](https://www.theatlantic.com/family/archive/2021/05/robin-dunbar-explains-circles-friendship-dunbars-number/618931/). 
- 
-Trust is not weak nor strong, but a combination of both. Friends can become foes, but friends can also become family. The strength depends on the two parties. 
-
-Trust is not binary, but we talk about trust as if it is. There are very few people we trust 0% of the times (scammers can still rake in lots of money after being exposed), nor are there many people we trust 100% of the times (and if you do, please cherish that blessing). The percentage level is not an objective measure but a rough range. Tobi [says](https://fs.blog/knowledge-project/tobi-lutke/) trust is "really a gradient... something with a lot of different points on this particular spectrum." Why we talk about trust as a binary thing is an interesting question for another day.
- 
-Trust is not blind, but we often wish for unconditional trust. Thinking through trust in a philosophical sense is like the chicken and egg problem. If one doesn’t have a trusting attitude, then it is hard to trust people. The opposite loop works, but we wish it can be much easier – just tell me who I can trust with my life! Blindly trusting people may not be the smartest thing, but the opposite is much worse, as it adds an imaginary layer of pain to reality itself. 
- 
-Trust is dependent on ego, but ego kills trust. You must want to trust people to build trust, otherwise the best you can do is to be a sociopath. However, a boatload of ego and pride can ruin any human relationship and drain trust even faster. People get defensive and defuse suggestions (not even criticism) by pointing out other people’s issues (or made-up ones). It is our imperative to not be such an asshole and actually listen. Listening builds trust.
- 
-Trust is unpredictable, but unpredictability is the archnemesis to building trust. You cannot predict who will be your most trusted person down the line. But at the same time, you don’t need to predict that if you live by the right values and keep doing the right things. Being unpredictable in behavior is the best way to ruin trust-building. It is not a slot machine game. 
- 
-## So, what is trust?
- 
-Trust must be earned. That is the only way. 
-
-Trust is mostly one-on-one. A is friends with B and C, but B and C may not like each other regardless of how much they trust A. High school cliques often appear tight to outsiders but fall apart rather quickly later, because not everyone is close to everyone else. The individualistic nature of trust has serious implications in terms of group dynamics. 
-
-Trust is personal, because all relationships are personal in one way or another. Therefore, the expectation to act like a professional is dubious and inhumane. Even parents who mean well for their children can hurt the kids badly. As Jason Fried and David Heinemeier Hansson write in _It Doesn't Have To Be Crazy At Work_, "the worst thing you can do is pretend that interpersonal feelings don't matter" because "humans are humans whether they're at work or at home." Personal things are emotional and trust is extremely personal, so trust is often emotional. 
-
-Trust is unique, because every relationship between two unique individuals is unique. Even between the same two people, their dynamic can change dramatically. Two good friends who end up as romantic partners will have different degrees of trust at different stages of their relationship. The contexts matter greatly.
-
-Trust is not generalizable. Certain events or professions can “expedite” trust between individuals very quickly, for example the Marines (or Squid Game contestants until they have to turn against each other). Group size, group culture, group events, and individual backgrounds all make trust something un-generalizable. 
 
 ## Where is the trust battery and how can we use it?
  
@@ -66,7 +43,7 @@ Between two friends, being supportive during tough time builds more trust. John 
 
 The biggest obstacle to charging one’s trust battery is ego. It is not easy to talk about anything, let alone things that elicit emotional responses. However, overcoming this barrier is essential to keep a healthy level of trust. Tobi [says](https://fs.blog/knowledge-project/tobi-lutke/), "so much about working in teams is the way you communicate working together, the way you give each other feedback." We want to empower others, yet giving feedback is not easy. The trust battery idea gives us a more objective way to provide feedback without getting too personal and emotional about the good intentions.
 
-What is important?
+## What is important?
  
 Attitude is the most important ingredient to charging the trust battery. One must acknowledge that relationships can improve and deteriorate. Only then can we be honest and figure out what the right thing is to do and do it. Keep doing things that work, but also drop anything that leads to battery drains or stagnation. 
  
