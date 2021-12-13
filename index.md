@@ -6,6 +6,8 @@ My top priorities is becoming a better listener. My favorite things are Bach, ja
 
 I'd love to get your email [here](mailto:michaelhe@hey.com) or at michaelhe@hey.com. You can also find me on [Twitter](https://twitter.com/hi_michaelh) at @hi_michaelh.
 
+If you find my writing or work interesting, please consider sharing with people and email/DM me! I'd love to hear from you. Since some people asked me, I have set up $heymichaelhe as my Cash App account. 
+
 ### Writing
 
 I began writing my [blog](https://world.hey.com/michaelhe/) in early 2021. It's been an [incredible experience so far](https://world.hey.com/michaelhe/240-days-later-5280bc41). If you find it interesting, please subscribe. It means a lot to me!
