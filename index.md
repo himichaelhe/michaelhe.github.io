@@ -4,13 +4,13 @@ I live in Los Angeles. I am a math major at Pomona College.
 
 My top priorities is becoming a better listener. My favorite things are Bach, jazz, food, manga, walking, dogs, business/investing, tennis (beginner), Chinese culture (including cheesy drama), economic growth, reading and writing. 
 
-I'd love to get your email [here](mailto:michaelhe@hey.com) or at michaelhe@hey.com. You can also find me on [Twitter](https://twitter.com/hi_michaelh) at @hi_michaelh.
-
-If you find my writing or work interesting, please consider sharing with people and email/DM me! I'd love to hear from you. Since some people asked me, I have set up $heymichaelhe as my Cash App account. 
+I'd love to get your email [here](mailto:michaelhe@hey.com) or at michaelhe@hey.com. You can also find me on [Twitter](https://twitter.com/hi_michaelh) at @hi_michaelh. Please email/DM me, I'd love to hear from you. 
 
 ### Writing
 
-I began writing my [blog](https://world.hey.com/michaelhe/) in early 2021. It's been an [incredible experience so far](https://world.hey.com/michaelhe/240-days-later-5280bc41). If you find it interesting, please subscribe. It means a lot to me!
+I began writing my [blog](https://world.hey.com/michaelhe/) in early 2021. It's been an [incredible experience so far](https://world.hey.com/michaelhe/240-days-later-5280bc41). If you find it interesting, please subscribe and share with people. It means a lot to me!
+
+Read my annual letter here.
 
 Here are some of my favorite pieces:
 
@@ -18,11 +18,13 @@ Here are some of my favorite pieces:
 * [The Never-Ending Writing Quest](https://world.hey.com/michaelhe/the-never-ending-writing-quest-6fed781f)
 * [Stop Being Jealous Of WeChat](https://michaelhe.me/wechat)
 * [The Trust Battery](https://michaelhe.me/trust)
-* [Michael's SGV Eating Guide](https://world.hey.com/michaelhe/michael-s-guide-to-eat-in-the-sgv-dbb47e8d)
+* [Michael's SGV Eating Guide](https://michaelhe.me/626)
+* [Basic College Lessons](https://michaelhe.me/firstyear)
+* [College Lessons To New Students](https://michaelhe.me/collegelessons)
+* Build Momentum
 * Getting My Hands Dirty
 * Squid Game Christianity
 * Is My College Education Worth It? Yes
-* [College Lessons To New Students](https://world.hey.com/michaelhe/things-i-wish-i-d-known-9c71a851)
 * To Zippy's Is To Hawaii
 * How To Learn Languages Relatively Quickly
 
