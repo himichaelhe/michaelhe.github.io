@@ -1,3 +1,5 @@
+[Original URL](https://world.hey.com/michaelhe/the-trust-battery-3e7808d2)
+
 What makes a team work well? Why don't all of my friends get along with each other? Why do some relationships work well, while other relationships fall apart?
  
 Why do some relationships become stronger over time, while other relationships fall apart? Why don't all my friends get along with one another, even though they get along with me just fine? Why do some teams work seamlessly, while others fight all day?
