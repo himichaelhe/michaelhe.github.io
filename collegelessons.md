@@ -1,3 +1,5 @@
+# Things I Wish I'd Known
+
 [Original URL](https://world.hey.com/michaelhe/things-i-wish-i-d-known-9c71a851)
 
 I wrote a long list for my eighteen-year-old self in the summer. It is similar to [this college guide](https://michaelhe.me/firstyear) but longer and more opinionated. I asked some friends about their favorite pointers, so you can see the (objectively) best ones.
