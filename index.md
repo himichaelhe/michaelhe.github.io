@@ -1,16 +1,16 @@
 ## Hi, I'm Michael He
 
-I live in Los Angeles. I am a math major at Pomona College. 
+I live in Los Angeles. I am a math major at Pomona College, graduating in summer 2022.
 
-My top priorities is becoming a better listener. My favorite things are Bach, jazz, food, manga, walking, dogs, business/investing, tennis (beginner), Chinese culture (including cheesy drama), economic growth, reading and writing. 
+My current priority is active listening. A non-exhaustive list of my favorite things includes Bach, 1960's jazz, manga, dogs, investing, tennis, and history. 
 
-I'd love to get your email [here](mailto:michaelhe@hey.com) or at michaelhe@hey.com. You can also find me on [Twitter](https://twitter.com/hi_michaelh) at @hi_michaelh. Please email/DM me, I'd love to hear from you. 
+Email me [here](mailto:michaelhe@hey.com) or michaelhe@hey.com. You can also find me on [Twitter](https://twitter.com/hi_michaelh) at @hi_michaelh.
 
 ### Writing
 
-I began writing my [blog](https://world.hey.com/michaelhe/) in early 2021. It's been an [incredible experience so far](https://world.hey.com/michaelhe/240-days-later-5280bc41). If you find it interesting, please subscribe and share with people. It means a lot to me!
+I started a [blog](https://world.hey.com/michaelhe/) in March 2021. It's been an [incredible experience so far](https://world.hey.com/michaelhe/240-days-later-5280bc41). Please subscribe and share with people if you like it. It means a lot!
 
-Read my annual letter here.
+You can find my top posts from 2021 [here](https://world.hey.com/michaelhe/2021-top-posts-68f6875f).
 
 Here are some of my favorite pieces:
 
@@ -21,49 +21,35 @@ Here are some of my favorite pieces:
 * [Michael's SGV Eating Guide](https://michaelhe.me/626)
 * [Basic College Lessons](https://michaelhe.me/firstyear)
 * [College Lessons To New Students](https://michaelhe.me/collegelessons)
+* [New Year Old Me](https://michaelhe.me/oldme)
 * Build Momentum
-* Getting My Hands Dirty
-* Squid Game Christianity
-* Is My College Education Worth It? Yes
-* To Zippy's Is To Hawaii
-* How To Learn Languages Relatively Quickly
 
-I am writing my senior thesis on mathematical growth, which I'd love to share soon.
+I am writing my senior thesis on mathematical growth, which I'd love to share in March 2022.
 
 ### Brief Bio
 
 I spent the first half of my life in Shanghai and the second half in California. One day I will write about [my early life story like this](https://twitter.com/patrickc/status/1025089196292157440?lang=en). My most formative years are indeed formative.
 
-Traveling and reading are two great ways to learn about this world. I'm fortunate to do both at quite an early age. Going to Tokyo gave me the first taste of freedom, visiting the Bay Area showed me how driven and smart people can get, and living in Hawaii taught me the importance of culture, care, and gratitude. 
+Traveling and reading are two great ways to learn about this world. I'm blessed to do both at an early age. Tokyo gave me the first taste of freedom. The Bay Area showed me how driven and smart people can get. And Hawaii taught me the importance of culture, care, and gratitude. 
 
-By the way, I'm a big In-N-Out fan! I usually order a cheeseburger with grilled onions, some well-done animal styled fries, and free iced water. Inflation may screw us over in the long run, but at least In-N-Out is keeping a delicious filling meal under ten bucks!
+By the way, I'm a big In-N-Out fan! I usually order a cheeseburger with grilled onions, well-done fries, animal style, and free water. Inflation sucks, but at least In-N-Out keeps a good meal under ten bucks!
 
-As a humanities turned STEM major, I never imagined to learn to code. But here I am, writing one line after another on R Studio and VS Code! I'm not passionate about coding _just yet_, but I'd love to do more software development and bridge the digital world to the physical world, especially those "unglamorous" aspects (think agriculture, logistics, and mundane work). My story of becoming a math major is also quite representative of my life so far - learning whatever that interests me at the time while staying curious for other things. 
+As a humanities turned STEM student, I never imagined to learn to code. But here I am, writing one line after another on VS Code and R Studio. I'm not passionate about coding, but I like it a lot. One thing I will do is to connect the digital world with the physical world, especially in "unglamorous" places like agriculture, logistics, and mundane work. My story of becoming a math major is also quite representative of my life so far - learning whatever that interests me at the time while staying curious about other things. 
 
-This past summer I worked at NPR's [Planet Money Indicator podcast](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money). I learned a lot, especially the joy of working with and learning from high caliber people. I was fortunate to contribute to and produce several stories, such as this one on [BTS](https://www.npr.org/2021/07/28/1021968141/bts-the-band-that-moves-the-economy), [anime](https://www.npr.org/2021/09/30/1042060699/japanese-anime-made-in-china), [China antitrust](https://www.npr.org/2021/08/25/1031074795/chinas-big-tech-crackdown) and Stripe Atlas (please stay tuned). Give them a listen!
+This past summer I worked at NPR's [Planet Money Indicator podcast](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money). I learned a lot, especially the joy of working with and learning from high caliber people. I was fortunate to contribute to and produce several stories, such as this one on [BTS](https://www.npr.org/2021/07/28/1021968141/bts-the-band-that-moves-the-economy), [anime](https://www.npr.org/2021/09/30/1042060699/japanese-anime-made-in-china), [China antitrust](https://www.npr.org/2021/08/25/1031074795/chinas-big-tech-crackdown) and Stripe Atlas (please stay tuned). Go give them a listen.
 
 ### Bookshelf
 
-I don't think I read that much, but I certainly spend a lot of money on books. My friends think I'm addicted and I agree. 
+I like reading and spend a lot of money on books. There are simply more books than I can possibly finish!
 
-Here are some in-depth book reviews I've written:
+Here are books I want to [reread](https://world.hey.com/michaelhe/start-rereading-38c867e9):
+
 * Range
 * Influence
 * Zero to One
-* How Innovation Works
-* War of Art
-* Battle Royale
-* Growth
-
-I have also made a few guides/pdfs to some great books:
-* All of the above
+* The Evolution of Everything
+* The Four Loves
 * Poor Charlie's Almanack (talk by talk)
-* The Goal
-* Atomic Habits
-* How To Lie With Statistics
-* Prime Movers of Globalization
-
-It's time to read more. It's the funnest thing, aside from playing with pets, sleeping, and spending time with my loved ones.
 
 ### Links, Links, Links!
 
@@ -81,6 +67,7 @@ Here are my favorite people to read on the Internet, in no particular order:
 * [Kara Swisher](https://www.nytimes.com/column/kara-swisher)
 * [Ezra Klein](https://www.nytimes.com/by/ezra-klein)
 * [Tim Urban](https://waitbutwhy.com/)
+* [Shreyas Doshi](https://twitter.com/shreyas)
 
 Some link collections I've made:
 * [Stripe](https://world.hey.com/michaelhe/collection-on-stripe-b45f4273)
@@ -93,6 +80,7 @@ I love people from these communities. They inspire me.
 * [Vanguard](https://investor.vanguard.com/home)
 * [Berkshire Hathaway](https://berkshirehathaway.com/)
 * [Nintendo](https://www.nintendo.co.jp/)
+* [Spotify](ttps://www.spotify.com/)
 * [Basecamp](https://basecamp.com/)
 * [Product Hunt](https://www.producthunt.com/)
 * [Lenny's Newsletter](https://www.lennysnewsletter.com/)
@@ -108,7 +96,6 @@ Here are some good resources to writing:
 * [A great writing strategy is to talk](http://paulgraham.com/talk.html)
 * [Another good online writing guide](https://www.collaborativefund.com/blog/writing/)
 
-Please send me things you find interesting (email or DM)! 
 
 ### Projects
 
@@ -117,7 +104,6 @@ From time to time I work on things that interest me until reality brings me back
 * WeChat blog in Chinese
 * HEY World blog in English
 * Statistical analysis on science progress
-* Online bakery app on Shopify
 * Personal finance tracker
 * A primer on mathematical growth
 * Calculus crash course
