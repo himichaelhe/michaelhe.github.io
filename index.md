@@ -1,116 +1,118 @@
 ## Hi, I'm Michael He
 
-I live in Los Angeles. I am a math major at Pomona College, graduating in summer 2022.
+I live in Los Angeles. I am a math major at Pomona College, graduating in May 2022. My current priority is figuring out post-graduation plan. 
 
-My current priority is active listening. A non-exhaustive list of my favorite things includes Bach, 1960's jazz, manga, dogs, investing, tennis, and history. 
+A non-exhaustive list of my favorite things includes classical music (esp. Bach), jazz (esp. 1950s), kpop (BTS, TXT, and IU), manga, dogs, business, investing, tennis, history, economics, and all things China (it's so nuanced). 
 
-Email me [here](mailto:michaelhe@hey.com) or michaelhe@hey.com. You can also find me on [Twitter](https://twitter.com/hi_michaelh) at @hi_michaelh.
+Email my [personal email](mailto:michaelhe@hey.com) or [school email](mailto:young.he@pomona.edu) here. My Twitter handle is @hi_michaelh. My GitHub is @himichaelhe.
+
+### Seeking 
+
+I am actively seeking work. Some of you are here because I put this link in the job application. Thank you for taking the time. 
+
+I want to be upfront. LinkedIn and resume do not say much about important yet intangible things (e.g. here), so I wrote a supplement here. I prefer authenticity and good faith on the other end, so I refuse to put flowery language in any job application.
+
+I highly value a company's culture, especially the team I will be working with. I am a big believer in the saying "do the right thing with the right people and the money will come". I have followed Vanguard, Stripe, Shopify, and Spotify for four years. I can see myself at any of these places for quite a long time. 
+
+I worked at NPR's podcast division in summmer 2021. I learned a lot and realized the joy of working with high caliber people. I handled things beyond the job description yet somehow still within my zone of competence. It taught me a lot about teamwork, journalism, and benefits being a generalist. 
+
+Similarly, I enjoy my TA work at Pomona College, helping students with math and Mandarin Chinese. If you want to know why I went from a humanities student to study mathematics, here is a brief story.
+
+### Projects
+
+I enjoy random projects. They offer something fun to work on, instead of the daily grind of problem sets. I am working on the following, with updated links every four weeks. 
+
+* Chinese blog on Wechat (michaelscorner)
+* [English blog](https://world.hey.com/michaelhe/)
+* Statistical analysis on science progress, [website](https://michaelhe.shinyapps.io/citationgames/?_ga=2.159348730.1354829746.1643606999-1388533146.1643606999) may be buggy
+* A primer on mathematical growth
+* Business analysis: See's candies, Nintendo, Costco
+
+This past summer I worked at NPR's [Planet Money Indicator podcast](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money). I was fortunate to produce several episodes, including [BTS](https://www.npr.org/2021/07/28/1021968141/bts-the-band-that-moves-the-economy), [anime](https://www.npr.org/2021/09/30/1042060699/japanese-anime-made-in-china), [China antitrust](https://www.npr.org/2021/08/25/1031074795/chinas-big-tech-crackdown) and Stripe Atlas (please stay tuned). Hope you give them a listen. 
 
 ### Writing
 
-I started a [blog](https://world.hey.com/michaelhe/) in March 2021. It's been an [incredible experience so far](https://world.hey.com/michaelhe/240-days-later-5280bc41). Please subscribe and share with people if you like it. It means a lot!
+I started [blogging](https://world.hey.com/michaelhe/) in March 2021. It's been an [incredible experience](https://world.hey.com/michaelhe/240-days-later-5280bc41). Please share with people if you like it. It means a lot to me!
 
-You can find my top posts from 2021 [here](https://world.hey.com/michaelhe/2021-top-posts-68f6875f).
+You can find my favorite posts from 2021 [here](https://world.hey.com/michaelhe/2021-top-posts-68f6875f).
 
 Here are some of my favorite pieces:
 
 * [Why Kids Hate Writing](https://world.hey.com/michaelhe/why-kids-hate-writing-0df7b6ad)
 * [The Never-Ending Writing Quest](https://world.hey.com/michaelhe/the-never-ending-writing-quest-6fed781f)
 * [Stop Being Jealous Of WeChat](https://michaelhe.me/wechat)
-* [The Trust Battery](https://michaelhe.me/trust)
-* [Michael's SGV Eating Guide](https://michaelhe.me/626)
+* [The Trust Battery](https://michaelhe.me/trustbattery)
+* [New Year Old Me](https://michaelhe.me/oldme)
+* [Build Momentum](https://world.hey.com/michaelhe/build-momentum-ab789180)
+* [Don't Read Everything Don't Do Everything](https://world.hey.com/michaelhe/don-t-read-everything-don-t-do-everything-b60c7ebb)
+
+Here are some non-essays to read:
+* Some Interesting Things To Read 2022-1 
+* [Michael's San Gabriel Valley Eating Guide](https://michaelhe.me/626)
 * [Basic College Lessons](https://michaelhe.me/firstyear)
 * [College Lessons To New Students](https://michaelhe.me/collegelessons)
-* [New Year Old Me](https://michaelhe.me/oldme)
-* Build Momentum
+* Build A Writing System With Flomo
 
-I am writing my senior thesis on mathematical growth, which I'd love to share in March 2022.
 
-### Brief Bio
+### Bio
 
-I spent the first half of my life in Shanghai and the second half in California. One day I will write about [my early life story like this](https://twitter.com/patrickc/status/1025089196292157440?lang=en). My most formative years are indeed formative.
-
-Traveling and reading are two great ways to learn about this world. I'm blessed to do both at an early age. Tokyo gave me the first taste of freedom. The Bay Area showed me how driven and smart people can get. And Hawaii taught me the importance of culture, care, and gratitude. 
-
-By the way, I'm a big In-N-Out fan! I usually order a cheeseburger with grilled onions, well-done fries, animal style, and free water. Inflation sucks, but at least In-N-Out keeps a good meal under ten bucks!
-
-As a humanities turned STEM student, I never imagined to learn to code. But here I am, writing one line after another on VS Code and R Studio. I'm not passionate about coding, but I like it a lot. One thing I will do is to connect the digital world with the physical world, especially in "unglamorous" places like agriculture, logistics, and mundane work. My story of becoming a math major is also quite representative of my life so far - learning whatever that interests me at the time while staying curious about other things. 
-
-This past summer I worked at NPR's [Planet Money Indicator podcast](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money). I learned a lot, especially the joy of working with and learning from high caliber people. I was fortunate to contribute to and produce several stories, such as this one on [BTS](https://www.npr.org/2021/07/28/1021968141/bts-the-band-that-moves-the-economy), [anime](https://www.npr.org/2021/09/30/1042060699/japanese-anime-made-in-china), [China antitrust](https://www.npr.org/2021/08/25/1031074795/chinas-big-tech-crackdown) and Stripe Atlas (please stay tuned). Go give them a listen.
+I spent my childhood in Shanghai and moved to California in 6th grade. My formative years are indeed formative. I'd love to share some of those stories if you are interested. For more on my traveling experience, click here. Otherwise, check out my love for In-N-Out. You can read my other reflections here: NPR, college, and switching majors. 
 
 ### Bookshelf
 
-I like reading and spend a lot of money on books. There are simply more books than I can possibly finish!
+I spend too much money and not enough time on books. There are more books than I can ever finish. It's both a blessing and a curse.
 
-Here are books I want to [reread](https://world.hey.com/michaelhe/start-rereading-38c867e9):
+Here are books I want to [reread](https://world.hey.com/michaelhe/start-rereading-38c867e9). They have shaped my worldview.
 
-* Range
-* Influence
-* Zero to One
-* The Evolution of Everything
-* The Four Loves
-* Poor Charlie's Almanack (talk by talk)
+* Poor Charlie's Almanack: the life operating system
+* Range: the benefits of being a generalist
+* Influence: the best way to operate as a human being
+* Zero to One: how to think for yourself
+* The Evolution of Everything: the bigger forces in the world
+* The Four Loves: the value of friendship and kindness
 
-### Links, Links, Links!
+### Links, Links, Links!!
 
-It's always nice to share URLs to great things. 
+It's nice to share great URLs. 
 
 Here are my favorite people to read on the Internet, in no particular order: 
+
 * [Tyler Cowen](https://marginalrevolution.com/)
 * [Paul Graham](http://paulgraham.com/articles.html)
 * [Blas Moros](https://blas.com/)
 * [Jason Fried](https://world.hey.com/jason)
+* [Shreyas Doshi](https://twitter.com/shreyas)
+* [Lenny Rachitsky](https://www.lennysnewsletter.com/)
 * [Ben Thompson](https://stratechery.com/)
 * [Howard Marks](https://www.oaktreecapital.com/insights/howard-marks-memos/)
 * [Noah Smith](https://noahpinion.substack.com/)
-* [Lenny Rachitsky](https://www.lennysnewsletter.com/)
 * [Kara Swisher](https://www.nytimes.com/column/kara-swisher)
-* [Ezra Klein](https://www.nytimes.com/by/ezra-klein)
 * [Tim Urban](https://waitbutwhy.com/)
-* [Shreyas Doshi](https://twitter.com/shreyas)
 
-Some link collections I've made:
+I am in the process of gathering links on certain themes and topics:
 * [Stripe](https://world.hey.com/michaelhe/collection-on-stripe-b45f4273)
 
 I love people from these communities. They inspire me.
 * [Stripe](https://stripe.com/)
 * [Shopify](https://www.shopify.com/)
-* [Flexport](https://www.flexport.com)
 * [NPR](https://www.npr.org/)
 * [Vanguard](https://investor.vanguard.com/home)
+* [Flexport](https://www.flexport.com)
+* [Spotify](ttps://www.spotify.com/)
 * [Berkshire Hathaway](https://berkshirehathaway.com/)
 * [Nintendo](https://www.nintendo.co.jp/)
-* [Spotify](ttps://www.spotify.com/)
 * [Basecamp](https://basecamp.com/)
 * [Product Hunt](https://www.producthunt.com/)
 * [Lenny's Newsletter](https://www.lennysnewsletter.com/)
 * [You Zhi You Xing](https://youzhiyouxing.cn/)
-* BTS ARMY
 
-Here are some good resources to writing:
+I learned a lot about writing from these resources:
 * [Strunk & White](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)
 * [On Writing Well, the book](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548)
 * [On writing usefully](http://paulgraham.com/useful.html)
 * [On simple writing](http://paulgraham.com/simply.html)
-* [On punctuation](https://www.julian.com/blog/punctuation)
 * [A great writing strategy is to talk](http://paulgraham.com/talk.html)
 * [Another good online writing guide](https://www.collaborativefund.com/blog/writing/)
-
-
-### Projects
-
-From time to time I work on things that interest me until reality brings me back to the daily grind. Here are some things I've worked on or am still working on:
-
-* WeChat blog in Chinese
-* HEY World blog in English
-* Statistical analysis on science progress
-* Personal finance tracker
-* A primer on mathematical growth
-* Calculus crash course
-* Warren Buffett Shareholder Letters
-* And more coming...
-
-I hope they are useful in some ways! I'd love to hear from you.
 
 ### Pictures
 
@@ -122,4 +124,4 @@ This is my profile, by my amazing friend [Chris Du](https://chrisdu.me/).
 
 我的中文也还可以。欢迎关注我的微信公众号：michaelscorner。
 
-我喜欢看书、写字、做饭、听音乐。最近在学编程，希望能做几个有趣的小产品。
+我喜欢看书、写字、做饭、听音乐。最近在学编程。
