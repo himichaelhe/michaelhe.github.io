@@ -22,11 +22,11 @@ Similarly, I enjoy my TA work at Pomona College, helping students with math and 
 
 I enjoy random projects. They offer something fun to work on, instead of the daily grind of problem sets. I am working on the following, with updated links every four weeks. 
 
-* Chinese blog on Wechat (michaelscorner)
+* [Chinese blog](https://mp.weixin.qq.com/s?__biz=MzIxMzg5Mjk0Mg==&mid=2247484627&idx=1&sn=ab016fed61e0c77cca82fbcdf51387c4&chksm=97aeaef2a0d927e40c0c108c7d2a1722107e82b605f2e0519822e06feb21bcb53658b2f9bbb1&token=470111712&lang=zh_CN#rd) on Wechat (michaelscorner)
 * [English blog](https://world.hey.com/michaelhe/)
 * Statistical analysis on science progress, [website](https://michaelhe.shinyapps.io/citationgames/?_ga=2.159348730.1354829746.1643606999-1388533146.1643606999) may be buggy
 * A primer on mathematical growth
-* Business analysis: See's candies, Nintendo, Costco
+* See's Candies
 
 This past summer I worked at NPR's [Planet Money Indicator podcast](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money). I was fortunate to produce several episodes, including [BTS](https://www.npr.org/2021/07/28/1021968141/bts-the-band-that-moves-the-economy), [anime](https://www.npr.org/2021/09/30/1042060699/japanese-anime-made-in-china), [China antitrust](https://www.npr.org/2021/08/25/1031074795/chinas-big-tech-crackdown) and Stripe Atlas (please stay tuned). Hope you give them a listen. 
 
@@ -42,21 +42,20 @@ Here are some of my favorite pieces:
 * [The Never-Ending Writing Quest](https://world.hey.com/michaelhe/the-never-ending-writing-quest-6fed781f)
 * [Stop Being Jealous Of WeChat](https://michaelhe.me/wechat)
 * [The Trust Battery](https://michaelhe.me/trustbattery)
+* [Tender Lightness](https://michaelhe.me/tender)
 * [New Year Old Me](https://michaelhe.me/oldme)
 * [Build Momentum](https://world.hey.com/michaelhe/build-momentum-ab789180)
 * [Don't Read Everything Don't Do Everything](https://world.hey.com/michaelhe/don-t-read-everything-don-t-do-everything-b60c7ebb)
 
 Here are some non-essays to read:
-* Some Interesting Things To Read 2022-1 
+* [Some Interesting Things To Read 2022-1](https://world.hey.com/michaelhe/some-things-to-read-2022-1-22d12316)
 * [Michael's San Gabriel Valley Eating Guide](https://michaelhe.me/626)
 * [Basic College Lessons](https://michaelhe.me/firstyear)
 * [College Lessons To New Students](https://michaelhe.me/collegelessons)
-* Build A Writing System With Flomo
-
 
 ### Bio
 
-I spent my childhood in Shanghai and moved to California in 6th grade. My formative years are indeed formative. I'd love to share some of those stories if you are interested. For more on my traveling experience, click here. Otherwise, check out my love for In-N-Out. You can read my other reflections here: NPR, college, and switching majors. 
+I spent my childhood in Shanghai and moved to California in 6th grade. I'd love to share some of those stories if you are interested. For more on my traveling experience, click here. I love In-N-Out. You can read my other reflections here: NPR, college, and switching majors. 
 
 ### Bookshelf
 
