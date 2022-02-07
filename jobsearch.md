@@ -1,7 +1,7 @@
 
 # My Job Search Principles
 
-Here are some ideas on my job search process and lessons I learned from working in internships, projects, and life in general. If you have time and want to read more, here is an [expanded version](ttps://michaelhe.me/jobsearchmore). Thank you in advance for reading this.
+Here are some ideas on my job search process and lessons I learned from working in internships, projects, and life in general. If you have time and want to read more, here is an [expanded version](https://michaelhe.me/jobsearchmore). Thank you in advance for reading this.
 
 ## General Principles
 
