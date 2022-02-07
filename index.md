@@ -1,18 +1,20 @@
 ## Hi, I'm Michael He
 
-I live in Los Angeles. I am a math major at Pomona College, graduating in May 2022. My current priority is figuring out post-graduation plan. 
+I live in Los Angeles. I am a math major at Pomona College, graduating in May 2022. My current priority is figuring out things post graduation. 
 
 A non-exhaustive list of my favorite things includes classical music (esp. Bach), jazz (esp. 1950s), kpop (BTS, TXT, and IU), manga, dogs, business, investing, tennis, history, economics, and all things China (it's so nuanced). 
 
-Email my [personal email](mailto:michaelhe@hey.com) or [school email](mailto:young.he@pomona.edu) here. My Twitter handle is @hi_michaelh. My GitHub is @himichaelhe.
+Email my [personal email](mailto:michaelhe@hey.com) or [school email](mailto:young.he@pomona.edu) here. My Twitter handle is @himichaelhe. My GitHub is @himichaelhe.
 
 ### Seeking 
 
 I am actively seeking work. Some of you are here because I put this link in the job application. Thank you for taking the time. 
 
-I want to be upfront. LinkedIn and resume do not say much about important yet intangible things (e.g. here), so I wrote a supplement here. I prefer authenticity and good faith on the other end, so I refuse to put flowery language in any job application.
+I want to be upfront. LinkedIn and resume do not say much about important yet intangible things (e.g. here), so I wrote a [supplement here](https://michaelhe.me/jobsearch). I prefer authenticity and good faith on the other end, so I refuse to put flowery language in any job application.
 
-I highly value a company's culture, especially the team I will be working with. I am a big believer in the saying "do the right thing with the right people and the money will come". I have followed Vanguard, Stripe, Shopify, and Spotify for four years. I can see myself at any of these places for quite a long time. 
+I highly value a company's culture, especially the team I will be working with. I am a big believer in the saying "do the right thing with the right people and the money will come". 
+
+I have followed Vanguard, Stripe, Shopify, and Spotify for many years. I was their customer first. As I learned about each company, I came to see a potential future with each place. It is good to set a high bar because it aspires me to work hard no matter what happens.
 
 I worked at NPR's podcast division in summmer 2021. I learned a lot and realized the joy of working with high caliber people. I handled things beyond the job description yet somehow still within my zone of competence. It taught me a lot about teamwork, journalism, and benefits being a generalist. 
 
@@ -20,15 +22,15 @@ Similarly, I enjoy my TA work at Pomona College, helping students with math and 
 
 ### Projects
 
-I enjoy random projects. They offer something fun to work on, instead of the daily grind of problem sets. I am working on the following, with updated links every four weeks. 
+I enjoy random projects. They offer something fun to work on, instead of the daily grind of problem sets. I am working on the following, with updates every few weeks. 
 
-* [Chinese blog](https://mp.weixin.qq.com/s?__biz=MzIxMzg5Mjk0Mg==&mid=2247484627&idx=1&sn=ab016fed61e0c77cca82fbcdf51387c4&chksm=97aeaef2a0d927e40c0c108c7d2a1722107e82b605f2e0519822e06feb21bcb53658b2f9bbb1&token=470111712&lang=zh_CN#rd) on Wechat (michaelscorner)
-* [English blog](https://world.hey.com/michaelhe/)
-* Statistical analysis on science progress, [website](https://michaelhe.shinyapps.io/citationgames/?_ga=2.159348730.1354829746.1643606999-1388533146.1643606999) may be buggy
-* A primer on mathematical growth
-* See's Candies
+* [Chinese blog](https://mp.weixin.qq.com/s?__biz=MzIxMzg5Mjk0Mg==&mid=2247484627&idx=1&sn=ab016fed61e0c77cca82fbcdf51387c4&chksm=97aeaef2a0d927e40c0c108c7d2a1722107e82b605f2e0519822e06feb21bcb53658b2f9bbb1&token=470111712&lang=zh_CN#rd) on Wechat (michaelscorner); I started in summer 2019 and it's been growing steadily since then. 
+* [English blog](https://world.hey.com/michaelhe/); I started in Spring 2021 and it currently has sixty-plus posts that I feel comfortable sharing.
+* Statistical analysis on science progress, [the hosting service](https://michaelhe.shinyapps.io/citationgames/?_ga=2.159348730.1354829746.1643606999-1388533146.1643606999) may be buggy at times. I am writing a companion essay on this topic due before summer 2022.
+* A primer on mathematical growth. I shall be releasing individual chapters in the next several weeks.
+* My love for See's Candies, which leads me to trace the business history, management, and financial data. 
 
-This past summer I worked at NPR's [Planet Money Indicator podcast](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money). I was fortunate to produce several episodes, including [BTS](https://www.npr.org/2021/07/28/1021968141/bts-the-band-that-moves-the-economy), [anime](https://www.npr.org/2021/09/30/1042060699/japanese-anime-made-in-china), [China antitrust](https://www.npr.org/2021/08/25/1031074795/chinas-big-tech-crackdown) and Stripe Atlas (please stay tuned). Hope you give them a listen. 
+This past summer I worked at NPR's [Planet Money Indicator podcast](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money). I was fortunate to produce several episodes, including [BTS](https://www.npr.org/2021/07/28/1021968141/bts-the-band-that-moves-the-economy), [anime](https://www.npr.org/2021/09/30/1042060699/japanese-anime-made-in-china), [China antitrust](https://www.npr.org/2021/08/25/1031074795/chinas-big-tech-crackdown) and Stripe Atlas (stay tuned). Please give them a listen. 
 
 ### Writing
 
