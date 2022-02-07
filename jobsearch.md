@@ -77,5 +77,5 @@ In addition, there are problems generalists can better tackle due to the messine
 
 I have one final gut-check question: can I make my teammates happy with my efforts? I don’t want people to put up with me. That feels unfair for everyone else. The best team feels comfortable working together and conflict resolution is prompt and easy to do. Simplicity is best.
 
-** If you have read up to this point, I have nothing but gratitude. Thank you for taking the time to read this. I hope you enjoyed reading this as much as I had fun writing it. I hope to speak with you soon. **
+**If you have read up to this point, I have nothing but gratitude. Thank you for taking the time to read this. I hope you enjoyed reading this as much as I had fun writing it. I hope to speak with you soon.**
 

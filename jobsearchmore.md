@@ -6,6 +6,8 @@ I wrote down a few things about my process. I hope they can align my day-to-day 
 
 I prefer authenticity and have faith on the other end, so I refuse to put flowery language in any job application just to polish my image. I want to be authentic and honest with anyone who views my job application. 
 
+The brief version can be found [here](https://michaelhe.me/jobsearch).
+
 ## Beyond The Resume
 
 I think a resume doesn't say much about a person. When I help friends with their resumes, I see a clear gap between who they are as a person (e.g. personality and lifestyle) and what they write on their resumes. Even with the accomplishments as bullet points, we have no idea about the story and costs behind doing so much. I can only imagine how the readers (managers/recruiters) feel when they have to go through hundreds of applications! I try to make my resume straightforward, but there is only so much I can do on that front.
@@ -30,7 +32,7 @@ I find that a bit odd, because answering the why question is so important that i
 
 If there is one thing you should know about the way I work, it's that I go all-in on whatever I have to do. As someone who ran cross country in high school, I believe in putting my full effort to what's ahead of me and then rest fully. Half-ass is not acceptable. In case for frustrating situation (e.g. bureaucracy), I still try my best to sprint the important parts.
 
-** Why am I choosing this path? Why am I living my current life with this habit, routine, and value? **
+## Why am I choosing this path? Why am I living my current life with this habit, routine, and value? 
 
 I usually answer the first question in my cover letter and the second in private. It's not something I eagerly share in the open for privacy reasons. Of course, I am always happy to talk about them during conversation.
 
@@ -40,7 +42,7 @@ An extension to the why question is working at places that keep people and let t
 
 I want to become really good. The best way to improve in tennis is to rally with someone better than you. By taking their time, they essentially invest in you. Passing that forward is something I want to do for as long as I live. It's not about  money. My mother tells me to "do the right thing with the right people and the money will come". I can't imagine a different way of living.
 
-** How do I align myself with what is available out there? How should I approach this job seeking process? **
+## How do I align myself with what is available out there? How should I approach this job seeking process? 
 
 I see two common approaches to job search among my friends. Some apply to many positions and hope to land a few interviews. Some apply to a good number of positions and try to make use of their resources, such as alumni connections and school names. I don't think the former way works. And I cannot compete with competent people who have more resources. That's the reality.
 
@@ -48,7 +50,7 @@ So I want to be deliberate instead.
 
 With more digitization in the job market, I cannot win against algorithms with my resume no matter how much I polish it. I believe a person will read my application on the other side. That means I want to deserve their valuable time and attention. I research each organization, its business/work, and its culture. That is the least I can do, aside from spelling the names correctly.
 
-** What am I looking for? **
+## What am I looking for? 
 
 [Shreyas Doshi](https://twitter.com/shreyas/status/1306640960282001408), a great mentor I never met, shared several things to consider.
 
@@ -62,7 +64,7 @@ While the three criterion are helpful, I mostly look at number one. The other tw
 
 I also believe in serendipity and kindness, even if it sounds awkward on paper. This is my gut-check question: can I make my teammates happy with my efforts? I want to contribute positively or it isn't fair for everyone else in the team. In addition, many people have helped me to get to where I already am. I want to pay that forward.
 
-** Succinct Thoughts On Work **
+## Succinct Thoughts On Work 
 
 Below are some things I stand by, when it comes to work. They may be repeats from before, but that's not a bad thing.
 
@@ -76,4 +78,4 @@ I try to use my best hours for deep work. That benefits my team the most.
 
 I am curious about things that may be irrelevant to my current work. That may often seem counterproductive, but the results may be more interesting than expected.
 
-** If you have read up to this point, I have nothing but gratitude. Thank you for taking the time to read this. I hope you enjoyed reading this as much as I had fun writing it. I hope to speak with you soon. **
+**If you have read up to this point, I have nothing but gratitude. Thank you for taking the time to read this. I hope you enjoyed reading this as much as I had fun writing it. I hope to speak with you soon.**
