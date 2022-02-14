@@ -1,7 +1,7 @@
 
 # My Job Search Principles
 
-Here are some ideas on my job search process and lessons I learned from working in internships, projects, and life in general. If you have time and want to read more, here is an [expanded version](https://michaelhe.me/jobsearchmore). Thank you in advance for reading this.
+Here are some ideas on my job search process and lessons I learned from working in internships, projects, and life in general. Thank you for reading this.
 
 ## General Principles
 
@@ -78,4 +78,6 @@ In addition, there are problems generalists can better tackle due to the messine
 I have one final gut-check question: can I make my teammates happy with my efforts? I don’t want people to put up with me. That feels unfair for everyone else. The best team feels comfortable working together and conflict resolution is prompt and easy to do. Simplicity is best.
 
 **If you have read up to this point, I have nothing but gratitude. Thank you for taking the time to read this. I hope you enjoyed reading this as much as I had fun writing it. I hope to speak with you soon.**
+
+P.S: if you are curious to read more about my experience, please click the "Welcome" logo or this [link](https://michaelhe.me) and look under the Seeking, Projects, and Writing sections. 
 
