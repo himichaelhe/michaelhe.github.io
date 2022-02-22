@@ -13,12 +13,8 @@ So here we go, things I wish I'd known as a new college student!
 ## Theo's Picks
 
 Know the difference between solitude and loneliness. It's okay to be by yourself. Being comfortable with who you are is important.
-
-Note: Theo and JJ both chose the above point. 
  
 Have a high tolerance for so-called "failures" and "mistakes". Risks are not that risky. The important caveat is knowing which failures and mistakes will permanently ruin you and never do them. As Charlie Munger famously says, "All I want to know is where I’m going to die, so I’ll never go there." Classic ruinous behaviors include betrayal, substance addiction, toxic behavior, and gambling.
-
-Note: Alex also chose this point.
  
 Corollary: be highly receptive to these “failures” and “mistakes”. Do not seek danger, but find the Goldilocks sweet spot between true danger and cowardice disguised as the “comfort zone”.
  
@@ -29,12 +25,8 @@ Overachievers exist, but the 5 AM to midnight types (e.g. vloggers) are at the b
 Burnout resets all advantages accumulated, so don't kill yourself with work and stress. You should get burnout once early on, so you will never do it again. Trying too hard is like grabbing onto a bar of soap tightly. It slips out of your hand even more. 
  
 Befriend ONE professor. Make sure your personalities match, so there is a connection in the first place. Make a good impression by writing cold emails, going to office hours, asking questions, and getting coffee or donuts. There is no trick but sincerity and compatibility.
-
-Note: Andrew also chose this point.
  
 Know how to write good emails. Good emails get straight to the point, have no fat, and are pleasant to read (containing no rude language or grammar errors). Be sincere and authentic, so professors would want to meet you in person. Make good use of bullet points and multiple paragraphs. 
- 
-Note: Alex also chose this point.
 
 ## JJ’s Picks 
  
@@ -44,8 +36,6 @@ The things you are taught are not always true, no matter how charismatic or dist
  
 People giving advice are largely doing this for their past self, so don't take advice too seriously. Remember, everyone​ has unique circumstances that no advice can account for.
 
-Note: Alex also chose this point.
-
 Find a writing partner for school and hopefully for life. If you can’t find one, time to meet some new people and make friends!
  
 Always go to class. Dress like you mean it. Even a clean outfit with a hoodie and jeans will do.
@@ -54,13 +44,9 @@ Select classes not based on content, but on the professor and the students. Good
 
 Embrace spontaneity.
 
-Note: Alex also chose this point.
-
 Don't overload yourself, as this will lead to burnout. There are plenty of cool things that you can do. Focus on a few and do them well. Work intensely during the semester and do nothing during the break, you are guaranteed to feel nasty and negative.
 
 Go first. Initiate. Start the reciprocation chain. Smile and greet others by their name. Chances are they will do the same.
-
-Note: Samuel also chose this point.
 
 Make time for friends, both old and new. This is your priority and the best way to show them that you care. Don't take them for granted. Meet friends organically, choose friends deliberately. 
 
@@ -75,8 +61,6 @@ Consistent sleep and exercise are investments with massive payouts in all aspect
 ## Alex's Picks
 
 Embrace spontaneity. No room for spontaneity equals a boring life and 100% chance of emotional burnout. Not if, but when.
-
-Note: JJ also chose this point.
  
 See people for who they truly are: faulty creatures. If you really understand this, then you can forgive yourself and others easier. Similarly, a bit of cynicism may help defuse anger. 
 
@@ -84,13 +68,9 @@ Be careful with the people you associate yourself with, especially those who eas
 
 People giving advice are largely doing this for their past self, so don't take advice too seriously. Remember, everyone​ has unique circumstances that no advice can account for.
 
-Note: JJ also chose this point.
-
 Choose systems and general principles, not specific to-do lists or extensive planning. Life is not ONE chess game. Play infinite games. 
 
 Have high tolerance for so-called "failures" and "mistakes". Risks are not that risky. The important caveat is knowing which failure and mistake will permanently ruin you and never do them. As Charlie Munger famously says, "All I want to know is where I’m going to die, so I’ll never go there." Classic ruinous behaviors include betrayal, substance addiction, toxic behavior, and gambling.
-
-Note: Theo also chose this point.
 
 Corollary: make reversible bets and take risks with asymmetrical and uncapped upside. As Mohnish Pabrai says, heads I win, tails I don't lose much. 
 
@@ -100,11 +80,7 @@ Corollary: have a big project and always work on it in whatever way possible. Bi
 
 Perform self-hypnosis by making your bed and dressing nicely every day. This signals your subconsciousness that you can and want to achieve things in life.
 
-Note: Samuel also chose this point.
-
 Know how to write good emails. Good emails get straight to the point, have no extra fat, and are pleasant to read with no rude language or grammar errors. Be sincere and authentic, so professors would want to meet you in person. Make good use of bullet points and multiple paragraphs.
-
-Note: Theo also chose this point.
 
 Recognize the value and trap of summers. If you focus on the “what did you do in the summer” part, then you will do anything to not “waste” time, similar to dating just to not be left out. Instead, think about the realistic options you have and the long-term impact each may bring. For example, how do you choose between a summer job at the mall and a mission trip to Mexico? What about an internship at a tech startup and summer research? There’s no right answer, but you do have to think for yourself on this one.
 
@@ -120,11 +96,7 @@ Be positive with other people. Say something encouraging every hour you are not 
 
 Laugh.
 
-Note: Samuel also chose these points.
-
 Befriend ONE professor. Make sure your personalities match, so there is a connection in the first place. Make a good impression by writing cold emails, going to office hours, asking questions, and getting coffee or donuts. There is no trick but all sincerity and compatibility.
-
-Note: Theo also chose this point.
 
 Competition focuses us on the people around us, and while we get better at the things we’re competing on, we lose sight of anything that’s important, or transcendent, or truly meaningful in our world. Remember why you started something and stay true to that. Credit to Peter Thiel and Samuel.
 
@@ -150,8 +122,6 @@ Know that cash-back or points or perks should not be the reason you spend money.
 
 Go first. Initiate. Start the reciprocation chain. Smile and greet others by their name. Chances are they will do the same.
 
-Note: JJ also chose this point.
-
 Write complimentary emails and nice cards. Be sincere. Appreciation goes a long way.
 
 Buy little gifts for people you care about or appreciate. Thoughtfully written notes work well. Add a cookie or a muffin to make it even sweeter.
@@ -164,17 +134,11 @@ Start each day with a small win, no matter what you prefer to do. In other words
 
 Perform self-hypnosis by making your bed and dressing nicely every day. This signals your subconsciousness that you can and want to do things in life.
 
-Note: Alex also chose this point.
-
 Be positive with other people. Say something encouraging every hour you are not alone.
 
 Laugh.
 
-Note: Andrew also chose these points.
-
 The desire for true understanding renders all studying techniques unimportant.
-
-Note: both Samuel and I chose this point.
 
 ## Michael's favorites 
 
@@ -221,8 +185,6 @@ No matter what you choose to focus on, once you have decided, pay your dues in f
 Eat healthily. Whole foods. Complex carbs and fiber. Vegetable and fruits. Protein and fats. 
  
 Build strength, endurance, and flexibility. All aches and pains start somewhere from your teens and 20s.
-
-Note: Andrew also chose these points.
 
 Before getting swept up in the competitions that define so much of life, ask yourself whether you even want the prize. Peter Thiel.
 

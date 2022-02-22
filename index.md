@@ -4,6 +4,8 @@ I live in Los Angeles. I am a math major at Pomona College graduating in May 202
 
 My favorite things includes classical music, kpop (BTS, TXT, IU, and Epik High), jazz (esp. 1950s), manga, dogs, and tennis. I spend a lot of free time learning and thinking about business, history, economics, technology, pop culture, investing, and all things China. Of course, I spend time to read about faith every morning (5 psalms a day keeps the evil away).
 
+I went from a history major to studying mathematics and never looked back. I will write about that before graduation. Even though I study STEM now, I am still very much in love with humanities. For example, I am taking Classical Greek, Italian, and piano this semester in addition to my math seminars.
+
 Email my [personal email](mailto:michaelhe@hey.com) or [school email](mailto:young.he@pomona.edu) here. My Twitter handle is @himichaelhe. My GitHub is @himichaelhe.
 
 ### Seeking 
@@ -16,11 +18,10 @@ I highly value a company's culture, especially the team I will be working with. 
 
 I have followed Stripe, Shopify, Vanguard, and Costco for many years. Each company teaches me to focus on the people: users for Stripe, merchants for Shopify, clients for Vanguard, and members for Costco. This invariably sets a high bar (given the competitiveness of the hiring process), but it also aspires me to work hard no matter the outcome.
 
-I worked at NPR's [Planet Money Indicator podcast](https://michaelhe.me/pmi) in summmer 2021. The most important lesson I learned was the joy of working with high caliber people. During that time, I gradually handled more responsibilities. This taught me a lot about teamwork, journalism, getting things done, and the benefits of being a generalist. I was fortunate to produce/guest appear on several episodes, including [BTS](https://www.npr.org/2021/07/28/1021968141/bts-the-band-that-moves-the-economy), [anime](https://www.npr.org/2021/09/30/1042060699/japanese-anime-made-in-china), [China antitrust](https://www.npr.org/2021/08/25/1031074795/chinas-big-tech-crackdown) and Stripe Atlas (stay tuned). Please give them a listen!
+I worked at NPR's [Planet Money Indicator podcast](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money) in summmer 2021. The most important lesson I learned was the joy of working with high caliber people. During that time, I gradually handled more responsibilities. This taught me a lot about teamwork, journalism, getting things done, and the benefits of being a generalist. I was fortunate to produce/guest appear on several episodes, including [BTS](https://www.npr.org/2021/07/28/1021968141/bts-the-band-that-moves-the-economy), [anime](https://www.npr.org/2021/09/30/1042060699/japanese-anime-made-in-china), [China antitrust](https://www.npr.org/2021/08/25/1031074795/chinas-big-tech-crackdown) and Stripe Atlas (stay tuned). Please give them a listen!
 
-I also really enjoy my [experience](https://michaelhe.me/pomonata) as a Chinese/math TA. It is difficult to become highly effective in these subjects, but it opens my eyes to the subtle nuances and ways to communicate in terms of words and emotions. The experience also exposes how different we learn, handle challenges, and work together. I will have a lot of fond moments to remember about my time in college!
+I also really enjoy my experience as a Chinese/math TA. It is difficult to become highly effective in these subjects, but it opens my eyes to the subtle nuances and ways to communicate in terms of words and emotions. The experience also exposes how different we learn, handle challenges, and work together. I will have a lot of fond moments to remember about my time in college!
 
-If you want to know why I went from a history major to studying mathematics, here is a [brief story](https://michaelhe.me/switchingmajor). The caveat is even though I study STEM now, I am still very much in love with humanities. For example, I am taking Classical Greek, Italian, and piano this semester in addition to my math seminars.
 
 ### Projects
 
@@ -33,6 +34,7 @@ I have two long-term projects:
 I also have some short-term projects (which I rotate based on current interests): 
 * A primer on mathematical growth curves (as part of my senior dissertation). I will release individual chapters in early March, starting with exponential growth and ending with fractal growth. There will likely be "explainer" blog posts on each concept I find interesting and relevant to our daily lives.
 * My love for See's Candies, which leads me to trace [the business](https://docs.google.com/document/d/1lO9OGr2hqQ3SiGpks5O6u4NkhbVFXdFY8bTdbTu3lEQ/edit?usp=sharing) and [its financial data](https://docs.google.com/spreadsheets/d/12RgKTHFlFf_Bj8IS3gGPwYSwxKyI41M6c7fYyZ78phQ/edit?usp=sharing). 
+* Fringe entreprenuership, [my vision](https://docs.google.com/document/d/12W6_3AliJwf3Axs8aIYrcmEdBOePt2AVLJ-5K4GPHRM/edit?usp=sharing) for a future of people doing things they love outside of a full-time job
 * Statistical analysis on scientific progress. Here is a link to [my repository](https://github.com/himichaelhe/citationgames). You can run the files in RStudio. I am writing a companion essay on this topic this summer 2022.
 * A secret project on K-pop with some of the biggest fan accounts on Twitter (who are beyond supportive for what I have in mind).
 
@@ -67,7 +69,7 @@ I will probably write more about college, language learning, k-pop, and books I 
 
 ### Bio
 
-I spent my childhood in Shanghai and moved to California in 6th grade. I'd love to share some of those stories if you are interested. At some point I will write down a few traveling experiences that changed me for the better. You can read my other reflections here: [NPR](https://michaelhe.me/pmi), [college](https://michaelhe.me/pomonata), and [switching majors](https://michaelhe.me/switchingmajor). 
+I spent my childhood in Shanghai and moved to California in 6th grade. I'd love to share some of those stories if you are interested. At some point I will write down a few traveling experiences that changed me for the better. 
 
 P.S: I love In-N-Out. My go-to order is cheeseburger with grilled onions, well-done fries, and a cup of water. 
 
